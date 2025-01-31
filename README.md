@@ -9,10 +9,10 @@ This repository tracks my journey of solving **one LeetCode problem every day** 
 
 ## 📂 Folder Structure  
 📦 LeetCode
-┣ 📂 Easy
-┣ 📂 Medium
-┣ 📂 Hard
-┣ 📜 README.md
+- ┣ 📂 Easy
+- ┣ 📂 Medium
+- ┣ 📂 Hard
+- ┣ 📜 README.md
 
 Problems are categorized based on difficulty.  
 
@@ -23,5 +23,5 @@ Problems are categorized based on difficulty.
 
 ## 🔗 Connect  
 Follow my journey & feel free to contribute/discuss!  
-- 📌 **LeetCode Profile**: [Your LeetCode Link]  
-- 🖥 **GitHub**: [Your GitHub Link]  
+- 📌 **LeetCode Profile**: [\[Your LeetCode Link\]](https://leetcode.com/u/dhruvnbajaj/)  
+- 🖥 **GitHub**: [\[Your GitHub Link\]](https://github.com/thedhruvbajaj)  
