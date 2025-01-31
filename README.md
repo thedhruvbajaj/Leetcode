@@ -23,5 +23,5 @@ Problems are categorized based on difficulty.
 
 ## 🔗 Connect  
 Follow my journey & feel free to contribute/discuss!  
-- 📌 **LeetCode Profile**: [\[dhruvnbajaj\]](https://leetcode.com/u/dhruvnbajaj/)  
-- 🖥 **GitHub**: [\[thedhruvbajaj\]](https://github.com/thedhruvbajaj)  
+- 📌 **LeetCode Profile**: [dhruvnbajaj](https://leetcode.com/u/dhruvnbajaj/)  
+- 🖥 **GitHub**: [thedhruvbajaj](https://github.com/thedhruvbajaj)  
